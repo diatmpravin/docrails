@@ -201,7 +201,7 @@ Contributing to the Rails Code
 
 ### Clone the Rails Repository
 
-The first thing you need to do to be able to contribute code is to clone the repository:
+To be able to contribute on the repository, you will need to clone it:
 
 ```bash
 $ git clone git://github.com/rails/rails.git
